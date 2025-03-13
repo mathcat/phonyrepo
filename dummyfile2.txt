@@ -1,2 +1,3 @@
 a new file commit from main branch
 a commit from remote
+a commit from local
